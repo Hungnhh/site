@@ -1,0 +1,7 @@
+
+*.xml
+*.pyc
+food/migrations/.DS_Store
+food/.DS_Store
+mysite/.DS_Store
+*.iml
